@@ -24,3 +24,5 @@ Objective: The goal of this assignment is to advance your SQL querying skills wi
 Problem Statement: As a part of the gym's management team, you need to conduct an in-depth analysis of the membership data. Your task is to develop Python functions that execute advanced SQL queries for distinct department identification, employee count in each department, and age-based employee filtering.
 
 Task 1 is completed in the file named 'advanced_data_analysis.py'
+
+The file named 'database_connection.py' contains the code to connect to the Fitness Center Database.
